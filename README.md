@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <h1>Hello, <span id="displayName">Tirupathi</span>!</h1>
+    <h1>Hello, <span id="displayName">Guru</span>!</h1>
 
 </body>
 </html>
